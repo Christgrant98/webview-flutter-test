@@ -1,0 +1,26 @@
+name: webview_flutterxwebview_flutterx
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+    sdk: '>=3.0.5 <4.0.0'
+
+
+dependencies:
+  carousel_slider: ^4.2.1
+  video_player: ^2.8.2
+  video_thumbnail: ^0.5.3
+
+  flutter:
+    sdk: flutter
+  webview_flutter: ^4.7.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
+  uses-material-design: true
